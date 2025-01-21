@@ -1,7 +1,7 @@
 # Project_Mermaid_Diagram
 
 
-``` Mermaid
+``` mermaid
 graph TD
     A[Inicio] --> B[Ordenar materias por preferencia]
     B --> C[Inicializar horario vacío]
